@@ -19,7 +19,7 @@ announcements:
 ---
 
 
-I build intelligent collaborative agents that model, learn, and reason about their human collaborators. My research advances methods for complex sequential decision making, intelligent agent systems, as well as hybrid AI agent architectures built with statistical machine learning and knowledge-rich inference algorithms. I leverage insights from economics, psychology, education, and HCI to desgin effective and robust human-agent collaboration in real-world settings. 
+I build intelligent collaborative agents that model, learn, and reason about their human collaborators. My research advances methods for complex sequential decision making, intelligent agent systems, as well as hybrid AI agent architectures built with statistical machine learning and knowledge-rich inference algorithms. I leverage insights from economics, psychology, education, and HCI to design effective and robust human-agent collaboration in real-world settings. 
 
 As a Principal Investigator at [SRI International](https://www.sri.com/), I lead technology and business development for AI research. My work spans fundamental algorithmic advances in agent architectures as well applications of agent technology in real world usecases. 
 
