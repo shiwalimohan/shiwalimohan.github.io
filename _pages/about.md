@@ -2,16 +2,22 @@
 layout: about
 title: about
 permalink: /
-description: Principal AI Scientist at <a href="https://www.sri.com/">SRI International</a>, <a href="https://www.sri.com/research/future-concepts-division/">Future Concepts</a> (formerly <a href="https://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a>)
+subtitle: Principal AI Scientist at <a href="https://www.sri.com/">SRI International</a>, <a href="https://www.sri.com/research/future-concepts-division/">Future Concepts</a> (formerly <a href="https://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a>)
 
 profile:
   align: right
   image: prof_pic.jpg
-social: true  # includes social icons at the bottom of the image
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+  image_circular: false # crops the image to make it circular
 
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+
 
 I build intelligent collaborative agents that model, learn, and reason about their human collaborators. My research advances methods for complex sequential decision making, intelligent agent systems, as well as hybrid AI agent architectures built with statistical machine learning and knowledge-rich inference algorithms. I leverage insights from economics, psychology, education, and HCI to desgin effective and robust human-agent collaboration in real-world settings. 
 
