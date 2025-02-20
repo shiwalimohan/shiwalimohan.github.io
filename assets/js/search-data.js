@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/new-webpage/bio/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-materials",
+          title: "materials",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/new-webpage/cv/";
+            window.location.href = "/new-webpage/materials/";
           },
         },{id: "nav-blog",
           title: "blog",
@@ -44,33 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/new-webpage/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/new-webpage/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/new-webpage/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/new-webpage/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/new-webpage/people/";
           },
         },{id: "dropdown-publications",
               title: "publications",
