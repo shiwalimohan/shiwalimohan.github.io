@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal AI Scientist at <a href="https://www.sri.com/">SRI International</a>, <a href="https://www.sri.com/research/future-concepts-division/">Future Concepts</a> (formerly <a href="https://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a>)
+subtitle: AI scientist studying intelligent agents, human-agent collaboration, and human cognition
 
 profile:
   align: right
