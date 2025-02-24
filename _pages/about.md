@@ -18,9 +18,16 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I build intelligent agents - computational entities that make decisions and take actions sequentially, over a long time horizon to achieve a desirable outcome. I design agent architectures and frameworks comprising knowledge-rich reasoning (AI planning, knowledge representation & reasoning, cognitive architectures) and statistical machine learning (computer vision, large models, deep learning). I am passionate about developing agentic technology that can support people in problem solving, decision making, and learning. Such collaborative agents learn and reason about their human partners. To build them, I instantiate insights from economics, psychology, education, and human-computer interaction in agent systems. My approach enables effective human-agent collaboration in real-world settings. 
+Hi! I am an AI scientist with over a decade of experience in intelligent systems research & development. I:  
 
-I am experienced principal investigator, having worked with various US government funding agencies including DARPA, AFOSR, ARPA-E, and NSF/NIH. My science contributions span fundamental advances in agent architectures as well as application of agent technology to real world usecases.
+* Build intelligent agents - computational entities that make decisions and take actions, sequentially and over a long time horizon, to achieve a desirable outcome. 
+
+* Design agent architectures & frameworks with components for knowledge-rich reasoning (AI planning, knowledge representation & reasoning, cognitive architectures) and statistical machine learning (computer vision, large language models, deep learning). 
+
+* Am passionate about agentic technology that supports people in problem solving, decision making, and learning. I draw inspiration from social sciences - economics, psychology, education, and human-computer interaction - in agent systems for effective human-agent collaboration. 
+
+I am experienced principal investigator, having worked with various US government funding agencies including DARPA, AFOSR, ARPA-E, and NSF/NIH. My science contributions include fundamental advances in agent architectures as well as application of agent technology to real world usecases.
+
 
 __Fundamental Research__: I led research on open-world learning agents ([DARPA SAIL-ON](https://intelligencecommunitynews.com/darpa-introduces-sail-on-program/)) and on teachable agents ([DARPA GAILA](https://www.darpa.mil/program/grounded-artificial-intelligence-language-acquisition)). Both these efforts study how agents can adapt to new situations, post-deployment, without the need of taking them offline and re-training. I study the role of structured representations in resilient agent architectures and investigate how they can be manipulated or adapted efficiently on-the-fly autonomously and with human instruction.       
 
