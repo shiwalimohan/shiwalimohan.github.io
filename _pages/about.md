@@ -18,7 +18,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi! I am an AI scientist with over a decade of experience in intelligent systems research & development. I:  
+Hi! I am a scientist with over a decade of experience in AI research & development. I:  
 
 * Build intelligent agents - computational entities that make decisions and take actions, sequentially and over a long time horizon, to achieve a desirable outcome. 
 
