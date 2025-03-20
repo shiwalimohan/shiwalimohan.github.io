@@ -18,11 +18,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a scientist with over a decade of experience in AI research & development. I:  
+I am a scientist with 15 years of experience in AI research & development.  I:  
 
-* Build intelligent agents - computational entities that make decisions and take actions, sequentially and over a long time horizon, to achieve a desirable outcome. 
+* Build [intelligent agents](https://people.eecs.berkeley.edu/~russell/aima1e/chapter02.pdf). 'AI agents' are all the hype right now and the term 'agent' has been co-opted to mean very different things. In AI science, an agent is a computational entity that given perception, makes decisions, and takes actions, sequentially, and over a long time horizon, to achieve a desirable outcome. The science of agents studies how informed decisions are made, how learning new knowledge affects decisions, how knowledge is represented etc. Agents have been central to AI & ML research since the [term 'AI' was first coined](https://en.wikipedia.org/wiki/Dartmouth_workshop)!   
 
-* Design agent architectures & frameworks with components for knowledge-rich reasoning (AI planning, knowledge representation & reasoning, cognitive architectures) and statistical machine learning (computer vision, large language models, deep learning). 
+* Design [agent architectures and frameworks](https://en.wikipedia.org/wiki/Agent_architecture) organize inference, reasoning, learning, and control to enable autonomous behavior. My expertise is in hetrogenous architectures that bring together the two diverse philosophies of AI; knowledge-based reasoning (AI planning, knowledge representation & reasoning, cognitive architectures) and data-driven machine learning (computer vision, large language models, deep learning). These two philosophies are complimentary in nature - knowledge-based reasoning is reliable and explicable while data-driven machine learning handles noise and uncertainty. This is why building heterogenous architectures is fun!
 
 * Am passionate about agentic technology that supports people in problem solving, decision making, and learning. I draw inspiration from social sciences - economics, psychology, education, and human-computer interaction - to build agents that collaborate with people effectively. 
 
