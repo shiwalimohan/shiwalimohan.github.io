@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Scientist | Intelligent Agents | Agent Frameworks & Architectures | Human Cognition
+subtitle: Intelligent Agents | Agent Frameworks & Architectures | Human Cognition
 
 profile:
   align: right
