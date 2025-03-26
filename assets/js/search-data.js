@@ -437,7 +437,7 @@ ninja.data = [{
           title: 'Gave a talk on building radical agents at Microsoft Research.',
           description: "",
           section: "News",},{id: "news-presented-our-paper-on-genai-evaluation-at-healthiui-acm-iui-2025-talk",
-          title: 'Presented our paper on GenAI evaluation at HealthIUI @ ACM IUI 2025 (talk....',
+          title: 'Presented our paper on GenAI evaluation at HealthIUI @ ACM IUI 2025 (talk)....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
