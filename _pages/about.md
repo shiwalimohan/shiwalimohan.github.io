@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Intelligent Agents | Agent Frameworks & Architectures | Human Cognition
+subtitle: Intelligent Agents | Agent Frameworks & Architectures | Human-Agent Collaboration
 
 profile:
   align: right
